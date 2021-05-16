@@ -1,5 +1,6 @@
 # A Journey
 RISD Color + Surface 2021
+
 https://agraaaaao.github.io/a-journey/
 
 This photo was taken in Jeju, South Korea in 2018, a really stressful and tiring year as I was adjusting to my new military life back home. My family had decided to go for a holiday in South Korea and it was the perfect break that I needed. The scene pictured here was taken near the top of Hallasan, the highest mountain in South Korea.
