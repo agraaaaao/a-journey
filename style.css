@@ -23,6 +23,8 @@ html{
   padding: 24px;
   width: auto;
   height: 8000vh;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 .names{
@@ -98,6 +100,25 @@ html{
 #darkness{
   color: rgb(52, 29, 1);
 }
+
+/* .flex-container{
+  height: 100vh;
+  width: 95%;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-end;
+  align-items: baseline;
+  transform: translateY(7900vh);
+  position: fixed;
+}
+
+.circle{
+  height: 50px;
+  width: 50px;
+  margin: auto;
+  background-color: #fff;
+  border-radius: 50%;  
+} */
 
 /* .links{
   margin: 0;
