@@ -13,4 +13,16 @@ It took us 4 hours to walk up the mountain, but it was well worth the effort bec
 This experience put things into perspective for me — imagining myself as a tiny little speck on this vast mountain helped me get through the hardships I was going through, by reminding myself that life had so much more than my worries and hardships. I come back to this photograph every now and then as it provides a sense of relief, something to look forward to when the daily hustle of life becomes an overbearing force. A portal to peace and quiet.
 
 ## Statement
-In Progress
+This project visualizes a journey —
+a journey of growth and understanding,
+of perspective over one's life,
+of regaining trust and starting a new day.
+Experiences, molded by colors, transitioning between states.
+
+
+This project will hopefully be a reminder that regardless of how deep the void is,
+inner strength can, and will one day get us out of it.
+Keep fighting against the harsh winds.
+Keep climbing the endless and overbearing walls.
+Keep rising above the mountain ranges and realize this —
+no dark spot can ever be significant enough to throw darkness over day.
